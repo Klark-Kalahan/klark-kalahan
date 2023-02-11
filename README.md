@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Kalahan</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="SO" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecnozero.com%2Fblog%2Fubuntu-12-04-lts-precise-pangolin-ya-esta-disponible%2F&psig=AOvVaw3-MqzMwUDc0IptpeAHgIUD&ust=1676189774588000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMin9NODjf0CFQAAAAAdAAAAABAE">
+<img align="right" alt="SO" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecnozero.com%2Fblog%2Fubuntu-12-04-lts-precise-pangolin-ya-esta-disponible%2F&psig=AOvVaw3-MqzMwUDc0IptpeAHgIUD&ust=1676189774588000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMin9NODjf0CFQAAAAAdAAAAABAE](https://www.tecnozero.com/wp-content/uploads/2012/05/ubuntu-logo-large.png)">
 - 🔭 Actualmente estoy trabajando en **Effectus Fischman**
 
 - 👨‍💻 Estoy aprendiendo **Twig**
