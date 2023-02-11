@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Kalahan</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="SO" width="220" src="https://www.tecnozero.com/wp-content/uploads/2012/05/ubuntu-logo-large.png">
+<img align="right" alt="SO" width="220" src="https://brandslogos.com/wp-content/uploads/thumbs/ubuntu-logo-vector.svg">
 - 🔭 Actualmente estoy trabajando en **Effectus Fischman**
 
 - 👨‍💻 Estoy aprendiendo **Twig**
